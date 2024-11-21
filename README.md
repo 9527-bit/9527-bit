@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xie
-- 👀 I’m interested in Java
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning to AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
